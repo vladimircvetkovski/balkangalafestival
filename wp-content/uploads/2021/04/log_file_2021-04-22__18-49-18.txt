@@ -1,0 +1,37 @@
+
+---Downloaded files---
+The import files for: Demo Import were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost
+Data file = C:\wamp64\www/wp-content/themes/shindig//demo/content.xml
+Widget file = C:\wamp64\www/wp-content/themes/shindig//demo/widgets.json
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Sidebar : 
+
+Search - Search - Imported
+Recent Posts - No Title - Widget already exists
+Archives - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+Homepage Widgets : 
+
+Home: Schedule/Line-up Widget - THE LINEUP - Imported
+Home: Highlight Widget - TICKETS - Imported
+
+Home: Widgets on all Pages : 
+
+Home: Sponsor Posts - PARTNERS &amp; SPONSORS - Imported
+
+
+
+---ocdi/after_import---
+ Slider processed
